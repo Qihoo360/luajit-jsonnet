@@ -2,7 +2,7 @@
 ====
 |luarocks|
 |:------:|
-|[![](https://img.shields.io/badge/luarocks-0.1--1-blue.svg)](https://crates.io/crates/jsonnet)|
+|[![](https://img.shields.io/badge/luarocks-0.1--1-blue.svg)](https://luarocks.org/modules/chenyuduan/jsonnet)|
 
 luajit-jsonnet - The Google Jsonnet( operation data template language) for Luajit
 
